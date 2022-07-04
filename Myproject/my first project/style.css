@@ -1,0 +1,56 @@
+h1{
+    color: green;
+    text-align: right;
+    font-family: cursive;
+}
+h2{
+    color: yellow;
+}
+h3{
+    color: wheat;
+}
+h4{
+    color: violet;
+}
+h5{
+    color: yellowgreen;
+}
+body{
+    background-color: whitesmoke;
+}
+.Programming{
+    background-color: white;
+}
+#program{
+    background-color: seagreen;
+}
+.Target{
+    background-color: springgreen;
+}
+#Rear{
+    background-color: olive;
+}
+button{
+    width: 50%;
+    margin: 42px 15px;
+    background-color: rgb(128, 0, 85);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+width: 50%;
+    margin: 42px 15px;
+    background-color: white;
+    color: rgb(128, 0, 85);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
